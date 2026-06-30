@@ -1,0 +1,4 @@
+import inteligencia_orc
+from _motor.engine import executar_simulacao
+
+executar_simulacao(inteligencia_orc.inteligencia_orc)
